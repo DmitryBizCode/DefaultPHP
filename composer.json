@@ -1,0 +1,15 @@
+{
+    "name": "tage/hash",
+    "autoload": {
+        "psr-4": {
+            "Hash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Beznosiuk",
+            "email": "Dmitrybeznosiukcode@gmail.com"
+        }
+    ],
+    "require": {}
+}
